@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Li PAS</title>
+    <link href="https://stlipas.github.io/my-pages/feed.xml" rel="self" />
+    <link href="https://stlipas.github.io/my-pages" />
+    <updated>2022-04-27T03:53:55+08:00</updated>
+    <author>
+        <name>Steven li</name>
+    </author>
+    <id>https://stlipas.github.io/my-pages</id>
+
+    <entry>
+        <title>Lijihao PAS</title>
+        <author>
+            <name>Steven li</name>
+        </author>
+        <link href="https://stlipas.github.io/my-pages/lijihao-pas.html"/>
+        <id>https://stlipas.github.io/my-pages/lijihao-pas.html</id>
+
+        <updated>2022-04-27T03:53:55+08:00</updated>
+            <summary>
+                <![CDATA[
+                    Digital landscape paintings Render
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+    <h2 id="digital-landscape-paintings">
+      Digital landscape paintings
+    </h2>
+
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://stlipas.github.io/my-pages/media/posts/1/render.png" sizes="100vw" srcset="https://stlipas.github.io/my-pages/media/posts/1/responsive/render-xs.png 300w ,https://stlipas.github.io/my-pages/media/posts/1/responsive/render-sm.png 480w ,https://stlipas.github.io/my-pages/media/posts/1/responsive/render-md.png 768w ,https://stlipas.github.io/my-pages/media/posts/1/responsive/render-lg.png 1024w ,https://stlipas.github.io/my-pages/media/posts/1/responsive/render-xl.png 1360w ,https://stlipas.github.io/my-pages/media/posts/1/responsive/render-2xl.png 1600w"  height="1080" width="2159" alt="Render" />
+      <figcaption>Render</figcaption>
+    </figure>
+
+  <p>
+    
+  </p>
+
+  <p>
+    
+  </p>
+
+    <h2 id="digital-art-pieces">
+      Digital art pieces
+    </h2>
+
+    <h2 id="interior-perspective-drawing">
+      Interior perspective drawing
+    </h2>
+
+    <h2 id="shaded-hand-drawing">
+      Shaded hand drawing
+    </h2>
+
+    <h2 id="additional-traditional-art-pieces">
+      Additional traditional art pieces
+    </h2>
+
+  <p>
+    
+  </p>
+            ]]>
+        </content>
+    </entry>
+</feed>

@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Li PAS",
+    "description": "",
+    "home_page_url": "https://stlipas.github.io/my-pages",
+    "feed_url": "https://stlipas.github.io/my-pages/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Steven li"
+    },
+    "items": [
+        {
+            "id": "https://stlipas.github.io/my-pages/lijihao-pas.html",
+            "url": "https://stlipas.github.io/my-pages/lijihao-pas.html",
+            "title": "Lijihao PAS",
+            "summary": "Digital landscape paintings Render",
+            "content_html": "\n    <h2 id=\"digital-landscape-paintings\">\n      Digital landscape paintings\n    </h2>\n\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"https://stlipas.github.io/my-pages/media/posts/1/render.png\" sizes=\"100vw\" srcset=\"https://stlipas.github.io/my-pages/media/posts/1/responsive/render-xs.png 300w ,https://stlipas.github.io/my-pages/media/posts/1/responsive/render-sm.png 480w ,https://stlipas.github.io/my-pages/media/posts/1/responsive/render-md.png 768w ,https://stlipas.github.io/my-pages/media/posts/1/responsive/render-lg.png 1024w ,https://stlipas.github.io/my-pages/media/posts/1/responsive/render-xl.png 1360w ,https://stlipas.github.io/my-pages/media/posts/1/responsive/render-2xl.png 1600w\"  height=\"1080\" width=\"2159\" alt=\"Render\" />\n      <figcaption>Render</figcaption>\n    </figure>\n\n  <p>\n    \n  </p>\n\n  <p>\n    \n  </p>\n\n    <h2 id=\"digital-art-pieces\">\n      Digital art pieces\n    </h2>\n\n    <h2 id=\"interior-perspective-drawing\">\n      Interior perspective drawing\n    </h2>\n\n    <h2 id=\"shaded-hand-drawing\">\n      Shaded hand drawing\n    </h2>\n\n    <h2 id=\"additional-traditional-art-pieces\">\n      Additional traditional art pieces\n    </h2>\n\n  <p>\n    \n  </p>",
+            "author": {
+                "name": "Steven li"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-04-27T03:47:10+08:00",
+            "date_modified": "2022-04-27T03:53:55+08:00"
+        }
+    ]
+}
