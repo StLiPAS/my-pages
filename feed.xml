@@ -3,12 +3,42 @@
     <title>Li PAS</title>
     <link href="https://stlipas.github.io/my-pages/feed.xml" rel="self" />
     <link href="https://stlipas.github.io/my-pages" />
-    <updated>2022-04-27T05:51:59+08:00</updated>
+    <updated>2022-04-27T06:15:30+08:00</updated>
     <author>
         <name>Steven li</name>
     </author>
     <id>https://stlipas.github.io/my-pages</id>
 
+    <entry>
+        <title>imagetest</title>
+        <author>
+            <name>Steven li</name>
+        </author>
+        <link href="https://stlipas.github.io/my-pages/imagetest.html"/>
+        <id>https://stlipas.github.io/my-pages/imagetest.html</id>
+
+        <updated>2022-04-27T06:15:30+08:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://stlipas.github.io/my-pages/media/posts/5/heigh_poly.png" sizes="100vw" srcset="https://stlipas.github.io/my-pages/media/posts/5/responsive/heigh_poly-xs.png 300w ,https://stlipas.github.io/my-pages/media/posts/5/responsive/heigh_poly-sm.png 480w ,https://stlipas.github.io/my-pages/media/posts/5/responsive/heigh_poly-md.png 768w ,https://stlipas.github.io/my-pages/media/posts/5/responsive/heigh_poly-lg.png 1024w ,https://stlipas.github.io/my-pages/media/posts/5/responsive/heigh_poly-xl.png 1360w ,https://stlipas.github.io/my-pages/media/posts/5/responsive/heigh_poly-2xl.png 1600w"  height="840" width="1587" alt="" />
+      
+    </figure>
+
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://stlipas.github.io/my-pages/media/posts/5/low_poly.png" sizes="100vw" srcset="https://stlipas.github.io/my-pages/media/posts/5/responsive/low_poly-xs.png 300w ,https://stlipas.github.io/my-pages/media/posts/5/responsive/low_poly-sm.png 480w ,https://stlipas.github.io/my-pages/media/posts/5/responsive/low_poly-md.png 768w ,https://stlipas.github.io/my-pages/media/posts/5/responsive/low_poly-lg.png 1024w ,https://stlipas.github.io/my-pages/media/posts/5/responsive/low_poly-xl.png 1360w ,https://stlipas.github.io/my-pages/media/posts/5/responsive/low_poly-2xl.png 1600w"  height="1080" width="2159" alt="" />
+      
+    </figure>
+
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://stlipas.github.io/my-pages/media/posts/5/render.png" sizes="100vw" srcset="https://stlipas.github.io/my-pages/media/posts/5/responsive/render-xs.png 300w ,https://stlipas.github.io/my-pages/media/posts/5/responsive/render-sm.png 480w ,https://stlipas.github.io/my-pages/media/posts/5/responsive/render-md.png 768w ,https://stlipas.github.io/my-pages/media/posts/5/responsive/render-lg.png 1024w ,https://stlipas.github.io/my-pages/media/posts/5/responsive/render-xl.png 1360w ,https://stlipas.github.io/my-pages/media/posts/5/responsive/render-2xl.png 1600w"  height="1080" width="2159" alt="" />
+      
+    </figure>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Lijihao_PAS</title>
         <author>
@@ -17,10 +47,10 @@
         <link href="https://stlipas.github.io/my-pages/lijihao_pas-2.html"/>
         <id>https://stlipas.github.io/my-pages/lijihao_pas-2.html</id>
 
-        <updated>2022-04-27T05:51:59+08:00</updated>
+        <updated>2022-04-27T06:14:14+08:00</updated>
             <summary>
                 <![CDATA[
-                    Lijihao_PAS Digital art pieces RBD_sim Volume_sim Soft body_sim
+                    Lijihao_PAS Digital art pieces RBD_sim Volume_sim Soft body_sim Up_Copy Repairman 1. Additional traditional art pieces web http://www.inkk-js.com/ Procedural Animate/model tiling problem procedural animate in houdini vex procedural donut
                 ]]>
             </summary>
         <content type="html">
@@ -34,7 +64,28 @@
  <div class="post__iframe"><iframe loading="lazy" src="https://player.vimeo.com/video/703452314?h=b9c0c88e29" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe></div>  </li>
 <li><p>Soft body_sim</p>
  <div class="post__iframe"><iframe loading="lazy" src="https://player.vimeo.com/video/703470988?h=5ebb21e948" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe></div>  
- <div class="post__iframe"><iframe loading="lazy" src="https://player.vimeo.com/video/703471026?h=c4394a8e52" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe></div></li>
+ <div class="post__iframe"><iframe loading="lazy" src="https://player.vimeo.com/video/703471026?h=c4394a8e52" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe></div>  
+## Character</li>
+<li><p>Up_Copy</p>
+ <div class="post__iframe"><iframe loading="lazy" src="https://player.vimeo.com/video/703470535?h=0ae82ffaee" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe></div>  </li>
+<li><p>Repairman </p>
+<ul>
+<li>Concept from Ariel Perez  <a href="https://www.artstation.com/artwork/mEWky">https://www.artstation.com/artwork/mEWky</a>   </li>
+<li>Model</li>
+</ul>
+</li>
+</ol>
+<h2 id="hand-drawing">hand drawing</h2>
+<p>1. </p>
+<h2 id="additional-traditional-art-pieces">Additional traditional art pieces</h2>
+<ol>
+<li>web
+ <a href="http://www.inkk-js.com/">http://www.inkk-js.com/</a></li>
+<li>Procedural Animate/model<ul>
+<li>tiling problem procedural animate in houdini vex <div class="post__iframe"><iframe loading="lazy" src="https://player.vimeo.com/video/703471060?h=baf9f93529" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe></div></li>
+<li>procedural donut <div class="post__iframe"><iframe loading="lazy" src="https://player.vimeo.com/video/703479476?h=346cdcb9b4" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe></div></li>
+</ul>
+</li>
 </ol>
 
             ]]>
