@@ -3,7 +3,7 @@
     <title>Li PAS</title>
     <link href="https://stlipas.github.io/my-pages/feed.xml" rel="self" />
     <link href="https://stlipas.github.io/my-pages" />
-    <updated>2022-04-27T06:15:30+08:00</updated>
+    <updated>2022-04-27T06:27:39+08:00</updated>
     <author>
         <name>Steven li</name>
     </author>
@@ -17,7 +17,7 @@
         <link href="https://stlipas.github.io/my-pages/imagetest.html"/>
         <id>https://stlipas.github.io/my-pages/imagetest.html</id>
 
-        <updated>2022-04-27T06:15:30+08:00</updated>
+        <updated>2022-04-27T06:27:39+08:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
@@ -34,6 +34,11 @@
 
     <figure class="post__image post__image--center">
       <img loading="lazy" src="https://stlipas.github.io/my-pages/media/posts/5/render.png" sizes="100vw" srcset="https://stlipas.github.io/my-pages/media/posts/5/responsive/render-xs.png 300w ,https://stlipas.github.io/my-pages/media/posts/5/responsive/render-sm.png 480w ,https://stlipas.github.io/my-pages/media/posts/5/responsive/render-md.png 768w ,https://stlipas.github.io/my-pages/media/posts/5/responsive/render-lg.png 1024w ,https://stlipas.github.io/my-pages/media/posts/5/responsive/render-xl.png 1360w ,https://stlipas.github.io/my-pages/media/posts/5/responsive/render-2xl.png 1600w"  height="1080" width="2159" alt="" />
+      
+    </figure>
+
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://stlipas.github.io/my-pages/media/posts/5/sketch.jpg" sizes="100vw" srcset="https://stlipas.github.io/my-pages/media/posts/5/responsive/sketch-xs.jpg 300w ,https://stlipas.github.io/my-pages/media/posts/5/responsive/sketch-sm.jpg 480w ,https://stlipas.github.io/my-pages/media/posts/5/responsive/sketch-md.jpg 768w ,https://stlipas.github.io/my-pages/media/posts/5/responsive/sketch-lg.jpg 1024w ,https://stlipas.github.io/my-pages/media/posts/5/responsive/sketch-xl.jpg 1360w ,https://stlipas.github.io/my-pages/media/posts/5/responsive/sketch-2xl.jpg 1600w"  height="6944" width="9248" alt="" />
       
     </figure>
             ]]>
