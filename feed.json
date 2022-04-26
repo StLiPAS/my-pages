@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://stlipas.github.io/my-pages/lijihao_pas-2.html",
+            "url": "https://stlipas.github.io/my-pages/lijihao_pas-2.html",
+            "title": "Lijihao_PAS",
+            "summary": "Lijihao_PAS Digital art pieces RBD_sim Volume_sim Soft body_sim",
+            "content_html": "<h1 id=\"lijihao_pas\">Lijihao_PAS</h1>\n<h2 id=\"digital-art-pieces\">Digital art pieces</h2>\n<ol>\n<li><p>RBD_sim</p>\n <div class=\"post__iframe\"><iframe loading=\"lazy\" src=\"https://player.vimeo.com/video/703452092?h=da122c27e8\" width=\"640\" height=\"564\" frameborder=\"0\" allow=\"autoplay; fullscreen\" allowfullscreen></iframe></div>  </li>\n<li><p>Volume_sim</p>\n <div class=\"post__iframe\"><iframe loading=\"lazy\" src=\"https://player.vimeo.com/video/703452314?h=b9c0c88e29\" width=\"640\" height=\"564\" frameborder=\"0\" allow=\"autoplay; fullscreen\" allowfullscreen></iframe></div>  </li>\n<li><p>Soft body_sim</p>\n <div class=\"post__iframe\"><iframe loading=\"lazy\" src=\"https://player.vimeo.com/video/703470988?h=5ebb21e948\" width=\"640\" height=\"564\" frameborder=\"0\" allow=\"autoplay; fullscreen\" allowfullscreen></iframe></div>  \n <div class=\"post__iframe\"><iframe loading=\"lazy\" src=\"https://player.vimeo.com/video/703471026?h=c4394a8e52\" width=\"640\" height=\"564\" frameborder=\"0\" allow=\"autoplay; fullscreen\" allowfullscreen></iframe></div></li>\n</ol>\n",
+            "author": {
+                "name": "Steven li"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-04-27T05:51:59+08:00",
+            "date_modified": "2022-04-27T05:51:59+08:00"
+        },
+        {
             "id": "https://stlipas.github.io/my-pages/videotest.html",
             "url": "https://stlipas.github.io/my-pages/videotest.html",
             "title": "VideoTest",

@@ -3,12 +3,43 @@
     <title>Li PAS</title>
     <link href="https://stlipas.github.io/my-pages/feed.xml" rel="self" />
     <link href="https://stlipas.github.io/my-pages" />
-    <updated>2022-04-27T04:52:18+08:00</updated>
+    <updated>2022-04-27T05:51:59+08:00</updated>
     <author>
         <name>Steven li</name>
     </author>
     <id>https://stlipas.github.io/my-pages</id>
 
+    <entry>
+        <title>Lijihao_PAS</title>
+        <author>
+            <name>Steven li</name>
+        </author>
+        <link href="https://stlipas.github.io/my-pages/lijihao_pas-2.html"/>
+        <id>https://stlipas.github.io/my-pages/lijihao_pas-2.html</id>
+
+        <updated>2022-04-27T05:51:59+08:00</updated>
+            <summary>
+                <![CDATA[
+                    Lijihao_PAS Digital art pieces RBD_sim Volume_sim Soft body_sim
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <h1 id="lijihao_pas">Lijihao_PAS</h1>
+<h2 id="digital-art-pieces">Digital art pieces</h2>
+<ol>
+<li><p>RBD_sim</p>
+ <div class="post__iframe"><iframe loading="lazy" src="https://player.vimeo.com/video/703452092?h=da122c27e8" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe></div>  </li>
+<li><p>Volume_sim</p>
+ <div class="post__iframe"><iframe loading="lazy" src="https://player.vimeo.com/video/703452314?h=b9c0c88e29" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe></div>  </li>
+<li><p>Soft body_sim</p>
+ <div class="post__iframe"><iframe loading="lazy" src="https://player.vimeo.com/video/703470988?h=5ebb21e948" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe></div>  
+ <div class="post__iframe"><iframe loading="lazy" src="https://player.vimeo.com/video/703471026?h=c4394a8e52" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe></div></li>
+</ol>
+
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>VideoTest</title>
         <author>
