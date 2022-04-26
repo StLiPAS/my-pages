@@ -10,41 +10,6 @@
     <id>https://stlipas.github.io/my-pages</id>
 
     <entry>
-        <title>imagetest</title>
-        <author>
-            <name>Steven li</name>
-        </author>
-        <link href="https://stlipas.github.io/my-pages/imagetest.html"/>
-        <id>https://stlipas.github.io/my-pages/imagetest.html</id>
-
-        <updated>2022-04-27T06:27:39+08:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                
-    <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://stlipas.github.io/my-pages/media/posts/5/heigh_poly.png" sizes="100vw" srcset="https://stlipas.github.io/my-pages/media/posts/5/responsive/heigh_poly-xs.png 300w ,https://stlipas.github.io/my-pages/media/posts/5/responsive/heigh_poly-sm.png 480w ,https://stlipas.github.io/my-pages/media/posts/5/responsive/heigh_poly-md.png 768w ,https://stlipas.github.io/my-pages/media/posts/5/responsive/heigh_poly-lg.png 1024w ,https://stlipas.github.io/my-pages/media/posts/5/responsive/heigh_poly-xl.png 1360w ,https://stlipas.github.io/my-pages/media/posts/5/responsive/heigh_poly-2xl.png 1600w"  height="840" width="1587" alt="" />
-      
-    </figure>
-
-    <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://stlipas.github.io/my-pages/media/posts/5/low_poly.png" sizes="100vw" srcset="https://stlipas.github.io/my-pages/media/posts/5/responsive/low_poly-xs.png 300w ,https://stlipas.github.io/my-pages/media/posts/5/responsive/low_poly-sm.png 480w ,https://stlipas.github.io/my-pages/media/posts/5/responsive/low_poly-md.png 768w ,https://stlipas.github.io/my-pages/media/posts/5/responsive/low_poly-lg.png 1024w ,https://stlipas.github.io/my-pages/media/posts/5/responsive/low_poly-xl.png 1360w ,https://stlipas.github.io/my-pages/media/posts/5/responsive/low_poly-2xl.png 1600w"  height="1080" width="2159" alt="" />
-      
-    </figure>
-
-    <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://stlipas.github.io/my-pages/media/posts/5/render.png" sizes="100vw" srcset="https://stlipas.github.io/my-pages/media/posts/5/responsive/render-xs.png 300w ,https://stlipas.github.io/my-pages/media/posts/5/responsive/render-sm.png 480w ,https://stlipas.github.io/my-pages/media/posts/5/responsive/render-md.png 768w ,https://stlipas.github.io/my-pages/media/posts/5/responsive/render-lg.png 1024w ,https://stlipas.github.io/my-pages/media/posts/5/responsive/render-xl.png 1360w ,https://stlipas.github.io/my-pages/media/posts/5/responsive/render-2xl.png 1600w"  height="1080" width="2159" alt="" />
-      
-    </figure>
-
-    <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://stlipas.github.io/my-pages/media/posts/5/sketch.jpg" sizes="100vw" srcset="https://stlipas.github.io/my-pages/media/posts/5/responsive/sketch-xs.jpg 300w ,https://stlipas.github.io/my-pages/media/posts/5/responsive/sketch-sm.jpg 480w ,https://stlipas.github.io/my-pages/media/posts/5/responsive/sketch-md.jpg 768w ,https://stlipas.github.io/my-pages/media/posts/5/responsive/sketch-lg.jpg 1024w ,https://stlipas.github.io/my-pages/media/posts/5/responsive/sketch-xl.jpg 1360w ,https://stlipas.github.io/my-pages/media/posts/5/responsive/sketch-2xl.jpg 1600w"  height="6944" width="9248" alt="" />
-      
-    </figure>
-            ]]>
-        </content>
-    </entry>
-    <entry>
         <title>Lijihao_PAS</title>
         <author>
             <name>Steven li</name>
@@ -107,37 +72,6 @@
 </li>
 </ol>
 
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>VideoTest</title>
-        <author>
-            <name>Steven li</name>
-        </author>
-        <link href="https://stlipas.github.io/my-pages/videotest.html"/>
-        <id>https://stlipas.github.io/my-pages/videotest.html</id>
-
-        <updated>2022-04-27T04:52:18+08:00</updated>
-            <summary>
-                <![CDATA[
-                    RBD Sim
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                
-    <h2 id="rbd-sim">
-      RBD Sim
-    </h2>
-
-  <p>
-    <div class="post__iframe"><iframe loading="lazy" src="https://player.vimeo.com/video/703452092?h=da122c27e8" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen=""></iframe></div>
-  </p>
-
-  <p>
-    
-  </p>
             ]]>
         </content>
     </entry>
