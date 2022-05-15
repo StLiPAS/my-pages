@@ -3,7 +3,7 @@
     <title>Li PAS</title>
     <link href="https://stlipas.github.io/my-pages/feed.xml" rel="self" />
     <link href="https://stlipas.github.io/my-pages" />
-    <updated>2022-05-15T19:23:24+08:00</updated>
+    <updated>2022-05-15T20:19:08+08:00</updated>
     <author>
         <name>Steven li</name>
     </author>
@@ -17,15 +17,25 @@
         <link href="https://stlipas.github.io/my-pages/sdsd-2.html"/>
         <id>https://stlipas.github.io/my-pages/sdsd-2.html</id>
 
-        <updated>2022-05-15T19:23:24+08:00</updated>
+        <updated>2022-05-15T20:19:08+08:00</updated>
             <summary>
                 <![CDATA[
-                    Digital landscape paintings Digital art pieces 1. RBD_sim 2. Volume_sim 3. Soft body_sim 4. Soft body_sim_2 1. Up_Copy &nbsp;&nbsp; 2. Repairman&nbsp; &nbsp;&nbsp; High_poly Low_poly render in&nbsp;Marmoset Toolbag tiling problem procedural animate in houdini vex procedural donut 2, Sketch
+                    Source file https://drive.google.com/drive/folders/1rbjRw4ruWk1-OgZ4aGeIXyI1Q2tEyTuT?usp=sharing Digital landscape paintings Digital art pieces 1. RBD_sim 2. Volume_sim 3. Soft body_sim 4. Soft body_sim_2 1. Up_Copy &nbsp;&nbsp; 2. Repairman&nbsp; &nbsp;&nbsp; High_poly Low_poly render in&nbsp;Marmoset Toolbag tiling problem procedural animate in houdini vex procedural donut 2, Sketch
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                 
+    <h2 id="source-file">
+      Source file
+    </h2>
+
+    <h6 id="httpsdrivegooglecomdrivefolders1rbjrw4ruwk1ogz4ageixyi1q2teytutuspsharing">
+      <a href="https://drive.google.com/drive/folders/1rbjRw4ruWk1-OgZ4aGeIXyI1Q2tEyTuT?usp=sharing">
+      https://drive.google.com/drive/folders/1rbjRw4ruWk1-OgZ4aGeIXyI1Q2tEyTuT?usp=sharing
+      </a>
+    </h6>
+
     <h2 id="digital-landscape-paintings">
       Digital landscape paintings
     </h2>
@@ -191,10 +201,10 @@
     </h2>
 
   <div  class="gallery-wrapper gallery-wrapper--wide">
-    <div class="gallery" data-columns="1">
+    <div class="gallery" data-columns="3">
       <figure class="gallery__item">
-      <a href="https://stlipas.github.io/my-pages/media/posts/10/gallery/IPD_01-2.jpg" data-size="4624x3472">
-        <img loading="lazy" src="https://stlipas.github.io/my-pages/media/posts/10/gallery/IPD_01-2-thumbnail.jpg" height="541" width="720" alt="" />
+      <a href="https://stlipas.github.io/my-pages/media/posts/10/gallery/interior.png" data-size="3508x2481">
+        <img loading="lazy" src="https://stlipas.github.io/my-pages/media/posts/10/gallery/interior-thumbnail.png" height="509" width="720" alt="" />
       </a>
       
     </figure>
