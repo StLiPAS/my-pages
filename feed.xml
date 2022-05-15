@@ -3,7 +3,7 @@
     <title>Li PAS</title>
     <link href="https://stlipas.github.io/my-pages/feed.xml" rel="self" />
     <link href="https://stlipas.github.io/my-pages" />
-    <updated>2022-05-15T20:19:08+08:00</updated>
+    <updated>2022-05-15T22:33:34+08:00</updated>
     <author>
         <name>Steven li</name>
     </author>
@@ -17,10 +17,10 @@
         <link href="https://stlipas.github.io/my-pages/sdsd-2.html"/>
         <id>https://stlipas.github.io/my-pages/sdsd-2.html</id>
 
-        <updated>2022-05-15T20:19:08+08:00</updated>
+        <updated>2022-05-15T22:33:34+08:00</updated>
             <summary>
                 <![CDATA[
-                    Source file https://drive.google.com/drive/folders/1rbjRw4ruWk1-OgZ4aGeIXyI1Q2tEyTuT?usp=sharing Digital landscape paintings Digital art pieces 1. RBD_sim 2. Volume_sim 3. Soft body_sim 4. Soft body_sim_2 1. Up_Copy &nbsp;&nbsp; 2. Repairman&nbsp; &nbsp;&nbsp; High_poly Low_poly render in&nbsp;Marmoset Toolbag tiling problem procedural animate in houdini vex procedural donut 2, Sketch
+                    Source file https://drive.google.com/drive/folders/1rbjRw4ruWk1-OgZ4aGeIXyI1Q2tEyTuT?usp=sharing Digital landscape paintings Digital art pieces 1. RBD_sim 2. Volume_sim 3. Soft body_sim 4. Soft body_sim_2 1. Up_Copy &nbsp;&nbsp; 2. Repairman&nbsp; &nbsp;&nbsp; High_poly Low_poly render in&nbsp;Marmoset Toolbag tiling problem procedural animate in houdini vex procedural donut 1, Sketch Computer programming piece 1.
                 ]]>
             </summary>
         <content type="html">
@@ -230,18 +230,8 @@
       Additional traditional art pieces
     </h2>
 
-    <h5 id="1-a-website-that-i-built-for-one-of-my-clientsnbsp-httpwwwinkkjscomnbsp-nbspno-https">
-      <a href="https://www.inkk-js.com">
-      1. A website that I built for one of my clients:&nbsp; http://www.inkk-js.com/&nbsp; &nbsp;(no https)
-      </a>
-    </h5>
-
   <p>
-    <br>
-  </p>
-
-  <p>
-    2, Sketch
+    1, Sketch
   </p>
 
   <div  class="gallery-wrapper">
@@ -254,6 +244,16 @@
     </figure>
     </div>
   </div>
+
+    <h2 id="computer-programming-piece">
+      Computer programming piece
+    </h2>
+
+    <h6 id="1-a-website-that-i-built-for-one-of-my-clients--httpwwwinkkjscom---use-http-no-https">
+      <a href="https://www.inkk-js.com">
+      1. A website that I built for one of my clients:  http://www.inkk-js.com/   (use http no https)
+      </a>
+    </h6>
             ]]>
         </content>
     </entry>
