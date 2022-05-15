@@ -3,7 +3,7 @@
     <title>Li PAS</title>
     <link href="https://stlipas.github.io/my-pages/feed.xml" rel="self" />
     <link href="https://stlipas.github.io/my-pages" />
-    <updated>2022-05-15T03:21:29+08:00</updated>
+    <updated>2022-05-15T12:43:18+08:00</updated>
     <author>
         <name>Steven li</name>
     </author>
@@ -17,7 +17,7 @@
         <link href="https://stlipas.github.io/my-pages/sdsd-2.html"/>
         <id>https://stlipas.github.io/my-pages/sdsd-2.html</id>
 
-        <updated>2022-05-15T03:21:29+08:00</updated>
+        <updated>2022-05-15T12:43:18+08:00</updated>
             <summary>
                 <![CDATA[
                     Digital landscape paintings Digital art pieces 1. RBD_sim 2. Volume_sim 3. Soft body_sim 4. Soft body_sim_2 1. Up_Copy &nbsp;&nbsp; 2. Repairman&nbsp; Concept from Ariel Perez https://www.artstation.com/artwork/mEWky&nbsp; &nbsp; High_poly Low_poly render in&nbsp;Marmoset Toolbag tiling problem procedural animate in houdini vex procedural donut 1. A website that&hellip;
@@ -35,6 +35,17 @@
       <figure class="gallery__item">
       <a href="https://stlipas.github.io/my-pages/media/posts/10/gallery/LS_01-3.png" data-size="1920x1080">
         <img loading="lazy" src="https://stlipas.github.io/my-pages/media/posts/10/gallery/LS_01-3-thumbnail.png" height="405" width="720" alt="" />
+      </a>
+      
+    </figure>
+    </div>
+  </div>
+
+  <div  class="gallery-wrapper gallery-wrapper--wide">
+    <div class="gallery" data-columns="3">
+      <figure class="gallery__item">
+      <a href="https://stlipas.github.io/my-pages/media/posts/10/gallery/LS_02.png" data-size="1920x1080">
+        <img loading="lazy" src="https://stlipas.github.io/my-pages/media/posts/10/gallery/LS_02-thumbnail.png" height="405" width="720" alt="" />
       </a>
       
     </figure>
